@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script+Swash+Caps&display=swap');
+
+.article {
+    display: inline-block;
+    background-color: HSL(28, 64%, 84%);
+    box-shadow: 0 0 32px HSL(12, 39%, 57%);
+    border-radius: 10px;
+    padding:32px;
+    margin:10px 200px 10px 200px;
+}
+
+.header {
+    color:HSL(12, 39%, 57%);
+    text-align: center;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    font-size: 64px;
+    margin: 0;
+}
+
+.image {
+    width: 300px;
+    border: 8px solid HSL(12, 39%, 57%);
+    margin-bottom: 10px;
+    border-radius: 50%;
+}
